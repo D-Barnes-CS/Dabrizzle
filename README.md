@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dabrizzle
+- 👋 Hi, I’m @D
 - 👀 I’m interested in building my portfolio for computer science
-- 🌱 I’m currently learning python, c++, java, and unity
+- 🌱 I’m currently learning python, c++, java, sql, and unity
 - 💞️ I’m looking to collaborate on gaming projects or anything to help strengthen my understanding
 - 📫 How to reach me dylan27b@gmail.com
 
