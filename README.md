@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D
 - 👀 I’m interested in building my portfolio for computer science
-- 🌱 I’m currently learning python, c++, java, sql, and unity
-- 💞️ I’m looking to collaborate on gaming projects and anything to help strengthen my understanding of coding
+- 🌱 I’m currently learning python, c++, java, sql, and assembly
+- 💞️ I’m looking to collaborate on anything to help strengthen my understanding of coding and gaming projects.
 - 📫 How to reach me dylan27b@gmail.com
 
 <!---
