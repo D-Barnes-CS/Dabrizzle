@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D
+- 👋 Hi, I’m D
 - 👀 I’m interested in building my portfolio for computer science
 - 🌱 I’m currently learning assembly and strengthening my understanding of Java, C++, and Python. 
 - 💞️ I’m looking to collaborate on anything to help strengthen my understanding of coding and gaming projects.
